@@ -2,6 +2,11 @@ body{
   text-align:center;
   background-color: #f5e6ca;
   font-family: 'Ubuntu', sans-serif;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
 }
 
 
