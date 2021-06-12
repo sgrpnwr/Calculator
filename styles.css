@@ -4,6 +4,7 @@ body{
   font-family: 'Ubuntu', sans-serif;
 
 
+
 }
 
 
@@ -110,4 +111,16 @@ footer{
   font-size:60%;
   font-family:sans-serif;
 
+}
+@media (max-width:1000px){
+  .calc-body{
+    transform: scale(0.75);
+
+  }
+  h1{
+    margin: auto;
+  }
+  footer{
+    margin:auto;
+  }
 }
