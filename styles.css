@@ -115,6 +115,7 @@ footer{
 @media (max-width:1000px){
   .calc-body{
     transform: scale(0.75);
+    margin:auto;
 
   }
   h1{
