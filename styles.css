@@ -117,8 +117,7 @@ footer{
   .calc-body{
     transform: scale(0.75);
     margin:auto;
-    position:absolute;
-    right:25%;
+    
 
   }
   h1{
